@@ -14,11 +14,11 @@ I'm an aspiring Machine Learing Engineer with experience in python I love tackli
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python]
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 ## Get in Touch 📬
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/emmanuel-ogunsanwo-b2326b354))
-- **[X]**(@Emmanuel1778612)
+- **[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]**([your_linkedin_profile_link](https://www.linkedin.com/in/emmanuel-ogunsanwo-b2326b354))
+- **[[X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]**(@Emmanuel1778612)
 
 
