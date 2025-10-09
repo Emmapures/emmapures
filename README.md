@@ -18,7 +18,7 @@ I'm an aspiring Machine Learing Engineer with experience in python I love tackli
 
 
 ## Get in Touch 📬
-- **[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]**([your_linkedin_profile_link](https://www.linkedin.com/in/emmanuel-ogunsanwo-b2326b354))
-- **[[X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([your_X_profile_link](https://x.com/Emmanuel1778612?t=18XmzBMEPJOF0iO5zW1UIQ&s=09)
+- **[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]**([linkedin_profile_link](https://www.linkedin.com/in/emmanuel-ogunsanwo-b2326b354))
+- **[[X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([_X_profile_link](https://x.com/Emmanuel1778612?t=18XmzBMEPJOF0iO5zW1UIQ&s=09)
 
 
